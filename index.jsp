@@ -1,4 +1,4 @@
-<%--
+﻿<%--
   Created by IntelliJ IDEA.
   User: 贝易
   Date: 2017/7/12
@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>$测试</title>
   </head>
   <body>
-  $END$
+  正文
   </body>
 </html>
